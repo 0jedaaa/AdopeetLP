@@ -35,6 +35,7 @@ public class UIMenu extends javax.swing.JFrame {
         btnOng = new javax.swing.JButton();
         btnPerfil = new javax.swing.JButton();
         btnFavoritos = new javax.swing.JButton();
+        Produtos = new javax.swing.JButton();
         btnDestaques = new javax.swing.JButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
@@ -42,7 +43,7 @@ public class UIMenu extends javax.swing.JFrame {
 
         jPanel1.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
-        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Icones/6 - Tela - Menu.png"))); // NOI18N
+        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Icones/Fundo.png"))); // NOI18N
         jPanel1.add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 420, 600));
 
         btnCRUD.addActionListener(new java.awt.event.ActionListener() {
@@ -52,10 +53,24 @@ public class UIMenu extends javax.swing.JFrame {
         });
         jPanel1.add(btnCRUD, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 500, 50, 50));
         jPanel1.add(btnMenu, new org.netbeans.lib.awtextra.AbsoluteConstraints(340, 40, 50, 50));
+
+        btnVoltar.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                btnVoltarActionPerformed(evt);
+            }
+        });
         jPanel1.add(btnVoltar, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 40, 50, 50));
         jPanel1.add(btnOng, new org.netbeans.lib.awtextra.AbsoluteConstraints(340, 500, 50, 50));
         jPanel1.add(btnPerfil, new org.netbeans.lib.awtextra.AbsoluteConstraints(270, 500, 50, 50));
         jPanel1.add(btnFavoritos, new org.netbeans.lib.awtextra.AbsoluteConstraints(190, 500, 50, 50));
+
+        Produtos.setText("jButton1");
+        Produtos.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                ProdutosActionPerformed(evt);
+            }
+        });
+        jPanel1.add(Produtos, new org.netbeans.lib.awtextra.AbsoluteConstraints(110, 500, 50, 50));
         jPanel1.add(btnDestaques, new org.netbeans.lib.awtextra.AbsoluteConstraints(110, 500, 50, 50));
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
@@ -78,6 +93,18 @@ public class UIMenu extends javax.swing.JFrame {
         entrar.setVisible(true);
         this.dispose();
     }//GEN-LAST:event_btnCRUDActionPerformed
+
+    private void btnVoltarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnVoltarActionPerformed
+        UILogin entrar = new UILogin();
+        entrar.setVisible(true);
+        this.dispose();
+    }//GEN-LAST:event_btnVoltarActionPerformed
+
+    private void ProdutosActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_ProdutosActionPerformed
+        UIProdutos entrar = new UIProdutos();
+        entrar.setVisible(true);
+        this.dispose();
+    }//GEN-LAST:event_ProdutosActionPerformed
 
     /**
      * @param args the command line arguments
@@ -115,6 +142,7 @@ public class UIMenu extends javax.swing.JFrame {
     }
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
+    private javax.swing.JButton Produtos;
     private javax.swing.JButton btnCRUD;
     private javax.swing.JButton btnDestaques;
     private javax.swing.JButton btnFavoritos;

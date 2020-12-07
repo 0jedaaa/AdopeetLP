@@ -517,7 +517,7 @@ public class UICRUD extends javax.swing.JFrame {
         jLabel17.setText("CPF");
         jPanel1.add(jLabel17, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 290, -1, 20));
 
-        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Icones/TelaCrud.png"))); // NOI18N
+        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Icones/Fundo1.png"))); // NOI18N
         jPanel1.add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 420, 580));
 
         btnVoltar.addActionListener(new java.awt.event.ActionListener() {

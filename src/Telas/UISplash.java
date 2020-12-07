@@ -59,7 +59,7 @@ public class UISplash extends javax.swing.JFrame {
 
         jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Icones/Splash.gif"))); // NOI18N
         jPanel1.add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, -1, 600));
-        jPanel1.add(Barra, new org.netbeans.lib.awtextra.AbsoluteConstraints(26, 420, 390, 70));
+        jPanel1.add(Barra, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 470, 380, 70));
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);

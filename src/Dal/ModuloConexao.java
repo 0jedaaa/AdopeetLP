@@ -12,7 +12,7 @@ public class ModuloConexao {
         // Armazenando Informaçoes Referente ao Banco
         String url = "jdbc:mysql://localhost:3306/dbadopet";
         String user = "root";
-        String password = "123456";
+        String password = "";
         // Estabelecendo a Conexao com o Banco
         try {
             Class.forName(driver);
