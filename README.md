@@ -23,32 +23,40 @@ CRUD (Produtos).
 
 <h4>Diagrama de Entidade:</h4>
 
-![Diagrama Entidade](https://user-images.githubusercontent.com/72398708/98608113-4c5f0a80-22c9-11eb-8afb-938e16ff5e10.jpeg)
+![DER](https://user-images.githubusercontent.com/72398708/101416661-119cc200-38c9-11eb-8311-5e99c0d307ba.jpeg)
+
 
 <br>
-Tela de Splash 
+<h4>Tela de Splash: </h4>
+
 ![Tela de Splash](https://user-images.githubusercontent.com/72398708/101415886-6dfee200-38c7-11eb-8117-bdaa523cc099.png)
-<br>
-Tela de Login
+
+<h4>Tela de Login</h4>
+
 ![Tela de Login](https://user-images.githubusercontent.com/72398708/101416044-c504b700-38c7-11eb-8dab-84339e294fdf.png)
-<br>
-Tela de Cadastro Usuario 1
+
+<h4>Tela de Cadastro Usuario 1:</h4>
+
 ![Tela de Cadastro 1](https://user-images.githubusercontent.com/72398708/101416074-d2ba3c80-38c7-11eb-9d13-8fac4dcbd868.png)
-<br>
-Tela de Cadastro de Usuario 2
+
+<h4>Tela de Cadastro de Usuario 2:</h4>
+
 ![Tela de Cadastro 2](https://user-images.githubusercontent.com/72398708/101416115-e5cd0c80-38c7-11eb-9dab-9f574c376e4e.png)
-<br>
-Tela de Atenção
+
+<h4>Tela de Atenção:</h4>
+
 ![Tela de Atenção](https://user-images.githubusercontent.com/72398708/101416132-efef0b00-38c7-11eb-811b-9c8476363be7.png)
-<br>
-Tela de Menu
+
+<h4>Tela de Menu:</h4>
+
 ![Tela de Menu](https://user-images.githubusercontent.com/72398708/101416151-fa110980-38c7-11eb-8686-6d758d847798.png)
-<br>
-Tela de CRUD Cliente
-<br>
+
+<h4>Tela de CRUD Cliente:</h4>
+
 ![Tela de CRUD Cliente](https://user-images.githubusercontent.com/72398708/101416173-0ac17f80-38c8-11eb-9870-db988861cc14.png)
-<br>
-Tela de CRUD Produtos
+
+<h4>Tela de CRUD Produtos:</h4>
+
 ![Tela de CRUD Produto](https://user-images.githubusercontent.com/72398708/101416199-1a40c880-38c8-11eb-90c3-349afdf49c3d.png)
 
 <h4>Participantes:</h4>
