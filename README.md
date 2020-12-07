@@ -5,13 +5,15 @@
 
 A Nossa Ideia principal é Criar um Sistema contendo Produtos para Animais Adotivos e demais.
 
-Por enquanto a primeira versão Contém: <br>
+Por enquanto Contém: <br>
 Logo e Nome para a Loja Fictícia,<br>
 Diagrama de Classes,<br>
 Diagrama de Entidade,<br>
 Modulos Login,<br>
 1 Acesso(Cadastro1,Cadastro2),<br>
 Autenticação de Usuario ao Banco de Dados Mysql WorkBench.
+CRUD (Cliente),
+CRUD (Produtos).
 
 <h4>Diagrama de Classes:</h4>
 
