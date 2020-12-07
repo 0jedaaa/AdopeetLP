@@ -3,18 +3,19 @@
 
 <h2>Loja Fictícia Adopet</h2>
 
-A Nossa Ideia principal é Criar um Sistema contendo Produtos para Animais Adotivos e demais.
+A Nossa Ideia principal é Criar um Sistema contendo Produtos para Animais Adotivos e demais.A Nossa Ideia principal é Criar um Sistema contendo Produtos para Animais Adotivos e demais. <br>
 
-Por enquanto Contém: <br>
+Esta versão conta com os sequintes temas:<br>
+
 Logo e Nome para a Loja Fictícia,<br>
 Diagrama de Classes,<br>
-Diagrama de Entidade,<br>
+Diagrama de Entidades,<br>
 Modulos Login,<br>
-1 Acesso(Cadastro1,Cadastro2),<br>
-Autenticação de Usuario ao Banco de Dados Mysql WorkBench.
-Cadastro de Usuario,
-CRUD (Cliente),
-CRUD (Produtos).
+1º Acesso (Cadastro1, Cadastro2),<br>
+Autenticação de Usuário ao Banco de Dados Mysql WorkBench,<br>
+Cadastro de Usuário, <br>
+CRUD(Cliente),<br>
+CRUD(Produtos).<br>
 
 <h4>Diagrama de Classes:</h4>
 
