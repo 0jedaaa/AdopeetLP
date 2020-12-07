@@ -12,6 +12,7 @@ Diagrama de Entidade,<br>
 Modulos Login,<br>
 1 Acesso(Cadastro1,Cadastro2),<br>
 Autenticação de Usuario ao Banco de Dados Mysql WorkBench.
+Cadastro de Usuario,
 CRUD (Cliente),
 CRUD (Produtos).
 
